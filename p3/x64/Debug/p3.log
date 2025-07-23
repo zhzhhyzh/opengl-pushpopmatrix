@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\henry\source\repos\p3\p3\main.cpp(11,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  p3.vcxproj -> C:\Users\henry\source\repos\p3\x64\Debug\p3.exe
