@@ -1,3 +1,23 @@
 ﻿  main.cpp
-C:\Users\henry\source\repos\p3\p3\main.cpp(11,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\henry\source\repos\p3\p3\main.cpp(14,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\henry\source\repos\p3\p3\main.cpp(16,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\henry\source\repos\p3\p3\main.cpp(17,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\henry\source\repos\p3\p3\main.cpp(247,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\henry\source\repos\p3\p3\main.cpp(247,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\henry\source\repos\p3\p3\main.cpp(255,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(255,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(256,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(257,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(258,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(258,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(265,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(266,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(267,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(268,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(276,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(277,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(284,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(285,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(285,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\henry\source\repos\p3\p3\main.cpp(286,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   p3.vcxproj -> C:\Users\henry\source\repos\p3\x64\Debug\p3.exe
